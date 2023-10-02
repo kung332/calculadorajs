@@ -1,3 +1,10 @@
+
+img, embed, object, videoo{
+	max-width: 100%
+}
+
+
+
 * {
 	margin: 0;
 	padding: 0;
@@ -20,7 +27,8 @@ html {
 	width: 290px;
 	text-align: center;
 	height:auto;
-	margin:500px;
+	margin-top: 260px;
+	margin-left: 800px;
 }
 #calculadora{
 	width: 234px;
